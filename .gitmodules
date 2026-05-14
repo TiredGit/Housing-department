@@ -1,0 +1,12 @@
+[submodule "BFF"]
+	path = BFF
+	url = https://github.com/TiredGit/hd-bff
+[submodule "Core_service"]
+	path = Core_service
+	url = https://github.com/TiredGit/hd-core
+[submodule "News_service"]
+	path = News_service
+	url = https://github.com/TiredGit/hd_news
+[submodule "Notifications_service"]
+	path = Notifications_service
+	url = https://github.com/TiredGit/hd_notifications
